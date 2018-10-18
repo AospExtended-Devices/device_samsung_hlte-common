@@ -272,4 +272,7 @@
     <!-- enable doze powersaving mode -->
     <bool name="config_enableAutoPowerModes">true</bool>
 
+    <!-- enable home button wake -->
+    <integer name="config_deviceHardwareWakeKeys">65</integer>
+
 </resources>

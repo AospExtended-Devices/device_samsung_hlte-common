@@ -41,16 +41,16 @@ PRODUCT_AAPT_CONFIG := normal hdpi xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Doze
-PRODUCT_PACKAGES += \
-    SamsungDoze
+#PRODUCT_PACKAGES += \
+#    SamsungDoze
 
 # FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
+#PRODUCT_PACKAGES += \
+#    FlipFlap
 
 # Gestures
-PRODUCT_PACKAGES += \
-    org.lineageos.keyhandler
+#PRODUCT_PACKAGES += \
+#    org.lineageos.keyhandler
 
 # Input device
 PRODUCT_COPY_FILES += \
