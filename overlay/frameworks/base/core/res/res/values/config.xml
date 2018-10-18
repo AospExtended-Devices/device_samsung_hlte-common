@@ -274,5 +274,8 @@
 
     <!-- enable home button wake -->
     <integer name="config_deviceHardwareWakeKeys">65</integer>
+    
+    <!-- enable home button wake on aex -->
+    <bool name="config_HomeWakeButton">true</bool>
 
 </resources>
